@@ -1,8 +1,8 @@
 # Inicio
 
 ## 1º ESO
-* [Mecanismos](https://citius70.github.io/mecanismos-tecnologia-1eso/)
-* [Mecanismos](https://citius70.github.io/mecanismos-tecnologia-1eso/)
+* [Electricidad básica](https://citius70.github.io/electricidad-tecnologia-1eso/)
+* [MEcanismos básica](https://citius70.github.io/mecanismos-tecnologia-1eso/)
 
 Página de inicio de **Alberto Durán Pérez**
 
